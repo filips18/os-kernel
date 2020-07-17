@@ -1,1 +1,1 @@
-This is a .zip archive of the required files to work with Borland C 3.1 .Just unzip this and follow instructions from the "README" in the "Documentation" folder of this repository. 
+This is a .zip archive of the required files to work with Borland C 3.1 .Just unzip this and follow instructions from the "README" in the "Documentation" folder of this repository.Unpack it and run "bc31\BIN\bc.exe" to install it to your 32-bit machine.
